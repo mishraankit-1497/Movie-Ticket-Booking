@@ -1,0 +1,23 @@
+.fit
+{
+width: 18rem;
+
+}
+.img-fit
+{
+   height: 10rem;
+}
+.card-title{
+    color:red;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+#movie-link .nav-link:hover{
+	color: white;
+}
+
+#movie-link .dropdown-item:hover{
+	background-color: black;
+	color:white
+}

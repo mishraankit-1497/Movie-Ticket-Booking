@@ -1,0 +1,16 @@
+.adjust-card
+{
+    width: 50rem;
+    background-color: lightcyan;
+    font-size: 1.2rem;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+#book-link .nav-link:hover{
+	color: white;
+}
+
+#book-link .dropdown-item:hover{
+	background-color: black;
+	color:white
+}

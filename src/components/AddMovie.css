@@ -1,0 +1,25 @@
+.card-fit
+{
+    width: 50rem;
+    margin-bottom:40px;
+    background-color: lightcyan;
+    font-weight: 800;
+    font-size:1.2rem;
+}
+.card-header
+{
+    text-align:center;
+    color: orangered;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'Alata', sans-serif;
+    text-shadow: 1px 1px 1px black;
+}
+#addmovie-link .nav-link:hover{
+	color: white;
+}
+
+#addmovie-link .dropdown-item:hover{
+	background-color: black;
+	color:white
+}
